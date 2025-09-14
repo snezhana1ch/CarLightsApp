@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CarLightsApp</string>
+    <string name="car_image_desc">Vehicle image</string>
+    <string name="configuration">Configuration</string>
+    <string name="history_log">History log</string>
+    <string name="analysis">Analysis</string>
+    <string name="settings">Settings</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="position">Position</string>
+    <string name="power">Power</string>
+    <string name="delete">Delete</string>
+    <string name="voltage">Voltage</string>
+    <string name="add">Add</string>
+    <string name="watt">Watt</string>
+</resources>
