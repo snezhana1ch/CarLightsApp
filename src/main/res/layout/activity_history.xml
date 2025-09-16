@@ -19,8 +19,7 @@
             android:gravity="center"
             android:padding="8dp"
             android:textColor="#000000" />
-
-    <!-- RecyclerView за списъка с лог записи -->
+    
     <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/rvHistoryLog"
             android:layout_width="match_parent"
