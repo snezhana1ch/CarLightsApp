@@ -8,7 +8,6 @@
               android:padding="8dp"
               android:background="#FFFFFF"
               tools:context=".HistoryActivity">
-
     <TextView
             android:id="@+id/tvHistoryTitle"
             android:layout_width="match_parent"
@@ -19,7 +18,7 @@
             android:gravity="center"
             android:padding="8dp"
             android:textColor="#000000" />
-    
+
     <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/rvHistoryLog"
             android:layout_width="match_parent"
